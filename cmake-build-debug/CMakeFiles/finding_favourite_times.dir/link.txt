@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/finding_favourite_times.dir/main.cpp.o -o finding_favourite_times.exe -Wl,--out-implib,libfinding_favourite_times.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
